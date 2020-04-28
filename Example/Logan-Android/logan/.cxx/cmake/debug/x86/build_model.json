@@ -1,0 +1,75 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\workspace\\Logan\\Example\\Logan-Android",
+      "sdkFolder": "C:\\Users\\pengysh\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\build\\intermediates",
+      "gradleModulePathName": ":logan",
+      "moduleRootFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan",
+      "makeFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\.cxx",
+      "cxxFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx",
+      "ndkFolder": "C:\\Users\\pengysh\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DBUILD_TESTING\u003dOFF",
+      "-DANDROID_TOOLCHAIN\u003dgcc"
+    ],
+    "cFlagList": [
+      "-std\u003dc11"
+    ],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\workspace\\Logan\\Example\\Logan-Android\\logan\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}

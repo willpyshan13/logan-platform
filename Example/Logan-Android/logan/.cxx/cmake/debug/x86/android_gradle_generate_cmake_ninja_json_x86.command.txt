@@ -1,0 +1,17 @@
+Executable : C:\Users\pengysh\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\workspace\Logan\Example\Logan-Android\logan
+-BD:\workspace\Logan\Example\Logan-Android\logan\.cxx\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\workspace\Logan\Example\Logan-Android\logan\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\Users\pengysh\AppData\Local\Android\Sdk\ndk\21.0.6113669
+-DCMAKE_C_FLAGS=-std=c11
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\pengysh\AppData\Local\Android\Sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\pengysh\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DBUILD_TESTING=OFF
+-DANDROID_TOOLCHAIN=gcc
+jvmArgs : 
+

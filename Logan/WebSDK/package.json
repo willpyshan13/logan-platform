@@ -29,7 +29,7 @@
         "fake-indexeddb": "^2.1.1",
         "jest": "^24.9.0",
         "source-map-loader": "^0.2.4",
-        "standard-version": "^7.0.1",
+        "standard-version": "^8.0.1",
         "ts-jest": "^24.1.0",
         "typescript": "^3.7.2",
         "webpack": "^4.41.2",
